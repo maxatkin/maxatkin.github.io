@@ -7,10 +7,10 @@ description: Max Atkin is
 Max Atkin is
 [stuff](http://www.google.com)
 [decision tree](https://github.com/maxatkin/qr/blob/master/decision_tree.ipynb)
+
 <!--
 [google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)
 
----
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
